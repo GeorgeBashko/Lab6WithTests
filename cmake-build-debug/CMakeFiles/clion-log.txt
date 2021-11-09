@@ -1,0 +1,5 @@
+"C:\Users\Детский\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - NMake Makefiles" F:\untitled5
+-- Could NOT find Python (missing: Python_EXECUTABLE Interpreter) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/untitled5/cmake-build-debug
